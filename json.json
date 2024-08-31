@@ -1,0 +1,406 @@
+{
+    "dates": {
+        "maximum": "2024-05-15",
+        "minimum": "2024-04-24"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12,
+                14
+            ],
+            "id": 823464,
+            "original_language": "en",
+            "original_title": "Godzilla x Kong: The New Empire",
+            "overview": "Après leur confrontation explosive, Godzilla et Kong doivent se réunir pour affronter une menace colossale cachée dans notre monde, qui remet en question leur existence même - et la nôtre. Plongez dans l'histoire de ces Titans, leurs origines et les mystères de l'île du Crâne et au-delà, et découvrez la bataille mythique qui a contribué à forger ces êtres extraordinaires et les a liés à l'humanité pour toujours.",
+            "popularity": 2602.291,
+            "poster_path": "/nKnWr062zhRvk48NtK27zz3oLgS.jpg",
+            "release_date": "2024-03-27",
+            "title": "Godzilla x Kong : Le nouvel Empire",
+            "video": false,
+            "vote_average": 6.661,
+            "vote_count": 697
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "id": 1096197,
+            "original_language": "en",
+            "original_title": "No Way Up",
+            "overview": "Un avion de ligne s'immobilise dangereusement près du bord d'un ravin, les passagers et l'équipage survivants étant piégés dans une poche d'air. Leur réserve d'air s'épuisant rapidement, une lutte cauchemardesque pour la survie s'engage alors que des dangers les guettent de toutes parts.",
+            "popularity": 1223.319,
+            "poster_path": "/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
+            "release_date": "2024-01-18",
+            "title": "No Way Up",
+            "video": false,
+            "vote_average": 6.341,
+            "vote_count": 393
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9wJO4MBzkqgUZemLTGEsgUbYyP6.jpg",
+            "genre_ids": [
+                878,
+                9648,
+                53,
+                28
+            ],
+            "id": 720321,
+            "original_language": "en",
+            "original_title": "Breathe",
+            "overview": "Maya et sa fille sont obligées de vivre sous terre après que la Terre ait été rendue inhabitable par un manque d'oxygène. Seuls de brefs voyages à la surface sont possibles grâce à une combinaison à oxygène ultramoderne fabriquée par le mari de Maya, Darius, qu'elle présume mort. Lorsqu'un couple mystérieux arrive, prétendant connaître Darius, Maya accepte de les laisser entrer dans leur bunker, mais sont-ils vraiment ce qu'ils semblent être ?",
+            "popularity": 1094.244,
+            "poster_path": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
+            "release_date": "2024-04-04",
+            "title": "Breathe",
+            "video": false,
+            "vote_average": 5.26,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uv2twFGMk2qBdyJBJAVcrpRtSa9.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 929590,
+            "original_language": "en",
+            "original_title": "Civil War",
+            "overview": "Dans un futur proche où les États-Unis sont au bord de l'effondrement et où des journalistes embarqués courent pour raconter la plus grande histoire de leur vie : La fin de l'Amérique telle que nous la connaissons.",
+            "popularity": 722.672,
+            "poster_path": "/4V06xpCUesnzXvkQav1q3RRlwxh.jpg",
+            "release_date": "2024-04-10",
+            "title": "Civil War",
+            "video": false,
+            "vote_average": 7.485,
+            "vote_count": 272
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+            "genre_ids": [
+                27,
+                53,
+                35
+            ],
+            "id": 1111873,
+            "original_language": "en",
+            "original_title": "Abigail",
+            "overview": "Un groupe enlève des jeunes gens dont l'un d'entre eux n'est autre que la fille de Dracula.",
+            "popularity": 532.799,
+            "poster_path": "/n8TOXE8b6qGUGG9HPdEImLcnGNA.jpg",
+            "release_date": "2024-04-18",
+            "title": "Abigail",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+            "genre_ids": [
+                28,
+                53,
+                10752
+            ],
+            "id": 969492,
+            "original_language": "en",
+            "original_title": "Land of Bad",
+            "overview": "Lorsqu’une mission spéciale de la Delta Force tourne terriblement mal, un pilote de drone de l’armée de l’air, Reaper ne dispose que de 48 heures pour réussir ce qui est devenu une opération de sauvetage hors de contrôle. Sans armes et sans autre moyen de communication que le drone en vol, la mission au sol se transforme soudainement en un affrontement mortel lorsque l’ennemi découvre l’équipe.",
+            "popularity": 527.913,
+            "poster_path": "/z1uj3ZGvMa03gqYsl1jns0CBy8z.jpg",
+            "release_date": "2024-01-25",
+            "title": "Land of Bad",
+            "video": false,
+            "vote_average": 7.236,
+            "vote_count": 620
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fypydCipcWDKDTTCoPucBsdGYXW.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 653346,
+            "original_language": "en",
+            "original_title": "Kingdom of the Planet of the Apes",
+            "overview": "Plusieurs générations après le règne de César, les singes ont définitivement pris le pouvoir. Les humains, quant à eux, ont régressé à l'état sauvage et vivent en retrait. Alors qu'un nouveau chef tyrannique construit peu à peu son empire, un jeune singe entreprend un périlleux voyage qui l'amènera à questionner tout ce qu'il sait du passé et à faire des choix qui définiront l'avenir des singes et des humains...",
+            "popularity": 517.593,
+            "poster_path": "/4925wPllJdQmHd1RxbZ62ZekaW3.jpg",
+            "release_date": "2024-05-08",
+            "title": "La Planète des Singes : Le Nouveau Royaume",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pIFGZRCWjdQwECoXcphCCe1tl0B.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 1041613,
+            "original_language": "en",
+            "original_title": "Immaculate",
+            "overview": "Cecilia, une jeune femme de foi américaine, est chaleureusement accueillie dans un illustre couvent isolé de la campagne italienne, où elle se voit offrir un nouveau rôle. L'accueil est chaleureux, mais Cecilia comprend rapidement que sa nouvelle demeure abrite un sinistre secret et que des choses terribles s'y produisent.",
+            "popularity": 503.784,
+            "poster_path": "/aRhtHbgFGVKI5LJHcbSqQ0WbNib.jpg",
+            "release_date": "2024-03-20",
+            "title": "Immaculée",
+            "video": false,
+            "vote_average": 6.28,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 1072790,
+            "original_language": "en",
+            "original_title": "Anyone But You",
+            "overview": "Bea et Ben ont tout du couple parfait, mais après un premier rendez-vous idéal, un incident refroidit leur attirance réciproque jusqu'à leurs retrouvailles inattendues lors d'un mariage en Australie. Ils font alors ce que n'importe quel adulte mature ferait dans cette situation : prétendre être en couple.",
+            "popularity": 405.425,
+            "poster_path": "/41Dg2A3EsS3mAjeqVH1c2EdeGU3.jpg",
+            "release_date": "2023-12-21",
+            "title": "Tout sauf toi",
+            "video": false,
+            "vote_average": 7.08,
+            "vote_count": 1358
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTlK3chwsEToSoQJYUcJaHlNhIf.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 618588,
+            "original_language": "en",
+            "original_title": "Arthur the King",
+            "overview": "Mikael Lindnord, le capitaine d'une équipe suédoise de courses d'aventure, rencontre un chien errant, blessé, lors d'une course de 643 kilomètres et 740 mètres (400 miles) à travers les jungles équatoriennes. Tout commence par un lancé de boulette de viande, ce qui conduit le chien à suivre l'équipe à travers certains des terrains les plus difficiles de la planète. Mikael décide finalement d'adopter ce chien et de le ramener avec lui en Suède.",
+            "popularity": 206.799,
+            "poster_path": "/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg",
+            "release_date": "2024-03-15",
+            "title": "Arthur the King",
+            "video": false,
+            "vote_average": 6.371,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+            "genre_ids": [
+                16,
+                35,
+                18,
+                10751
+            ],
+            "id": 838240,
+            "original_language": "es",
+            "original_title": "Robot Dreams",
+            "overview": "DOG, vit à Manhattan et la solitude lui pèse. Un jour, il décide de construire un robot et deviennent alors les meilleurs amis du monde ! Par une nuit d’été, DOG avec grande tristesse, est obligé d’abandonner ROBOT sur la plage. Se reverront-ils un jour ?  ROBOT DREAMS est le premier film d’animation du réalisateur multirécompensé Pablo Berger (Blancanieves). Une histoire sur l’amitié, son importance et sa fragilité.",
+            "popularity": 206.715,
+            "poster_path": "/sGF2viJrV8NsOOZhFuCylqAxq72.jpg",
+            "release_date": "2023-12-06",
+            "title": "Mon ami robot",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 273
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 348,
+            "original_language": "en",
+            "original_title": "Alien",
+            "overview": "En 2122, le Nostromo, vaisseau de commerce, fait route vers la Terre avec à son bord un équipage de sept personnes en hibernation et une cargaison de minerais. Il interrompt soudain sa course suite à la réception d’un mystérieux message provenant d’une planète inexplorée. Réveillé par l’ordinateur de bord, l’équipage se rend sur place et découvre les restes d’un gigantesque vaisseau extraterrestre dont le seul passager semble être mort dans d’étranges circonstances…",
+            "popularity": 186.259,
+            "poster_path": "/l8CES84JndFlNfBNMxdLRYaLvI6.jpg",
+            "release_date": "1979-05-25",
+            "title": "Alien, le huitième passager",
+            "video": false,
+            "vote_average": 8.152,
+            "vote_count": 13842
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2s4MbCjdb0mld2swKIJiH4fUDiz.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 966488,
+            "original_language": "fr",
+            "original_title": "Rien à perdre",
+            "overview": "Sylvie vit à Brest avec ses deux enfants, Sofiane et Jean-Jacques. Une nuit, Sofiane se blesse alors qu’il est seul dans l’appartement. Les services sociaux sont alertés et placent l’enfant en foyer, le temps de mener une enquête. Persuadée d’être victime d’une erreur judiciaire, Sylvie se lance dans un combat pour récupérer son fils.",
+            "popularity": 164.876,
+            "poster_path": "/izvRFWuRiXV917umJQ1q0nnb6Tg.jpg",
+            "release_date": "2023-11-21",
+            "title": "Rien à perdre",
+            "video": false,
+            "vote_average": 6.333,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 938614,
+            "original_language": "en",
+            "original_title": "Late Night with the Devil",
+            "overview": "Jack Delroy cherche désespérément le petit quelque chose qui manque à son émission de divertissement pour dépasser la concurrence. Le soir d’Halloween, les segments se succèdent et l’ambiance commence sérieusement à déraper sur le plateau, en plein direct.",
+            "popularity": 164.762,
+            "poster_path": "/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg",
+            "release_date": "2024-03-19",
+            "title": "Late Night with the Devil",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9RWPPVB9ZPsrqALjcXKkl5rwijN.jpg",
+            "genre_ids": [
+                14,
+                16,
+                12
+            ],
+            "id": 4935,
+            "original_language": "ja",
+            "original_title": "ハウルの動く城",
+            "overview": "La jeune Sophie, âgée de 18 ans, travaille sans relâche dans la boutique de chapelier que tenait son père avant de mourir. Lors de l’une de ses rares sorties en ville, elle fait la connaissance de Hauru le Magicien. Celui‐ci est extrêmement séduisant, mais n’a pas beaucoup de caractère… Se méprenant sur leur relation, une sorcière jette un épouvantable sort sur Sophie et la transforme en vieille femme de 90 ans. Accablée, Sophie s’enfuit et erre dans les terres désolées. Par hasard, elle pénètre dans le Château Ambulant de Hauru et, cachant sa véritable identité, s’y fait engager comme femme de ménage. Cette « vieille dame » aussi mystérieuse que dynamique va bientôt redonner une nouvelle vie à l’ancienne demeure. Plus énergique que jamais, Sophie accomplit des miracles. Quel fabuleux destin l’attend  ? Et si son histoire avec Hauru n’en était qu’à son véritable commencement  ?",
+            "popularity": 158.091,
+            "poster_path": "/45PVXJUYfH6yIINcQKelQ0SJPvh.jpg",
+            "release_date": "2004-09-09",
+            "title": "Le Château ambulant",
+            "video": false,
+            "vote_average": 8.412,
+            "vote_count": 9377
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9qBCO17J7XoUFBPck1JWLBS87s2.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 964960,
+            "original_language": "fr",
+            "original_title": "La Passion de Dodin Bouffant",
+            "overview": "Eugénie, cuisinière hors pair, est depuis 20 ans au service du célèbre gastronome Dodin. À force de passer du temps ensemble en cuisine, une passion amoureuse s’est construite entre eux où l’amour est étroitement lié à la pratique de la gastronomie.  De cette union naissent des plats tous plus savoureux et délicats les uns que les autres qui vont jusqu’à émerveiller les plus grands de ce monde. Pourtant, Eugénie, avide de liberté, n’a jamais voulu se marier avec Dodin. Ce dernier décide alors de faire quelque chose qu’il n’a encore jamais fait : cuisiner pour elle.",
+            "popularity": 154.307,
+            "poster_path": "/xfyrDubkZ6v7w54GgdtIBU8ucem.jpg",
+            "release_date": "2023-11-08",
+            "title": "La Passion de Dodin Bouffant",
+            "video": false,
+            "vote_average": 7.08,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "id": 746036,
+            "original_language": "en",
+            "original_title": "The Fall Guy",
+            "overview": "Un cascadeur se retrouve embauché sur un film avec une star pour laquelle il a travaillé il y a longtemps et qui l'a remplacé. Bientôt, la vedette disparaît...",
+            "popularity": 142.432,
+            "poster_path": "/9iq2LfoySJNW6HpQSgsTFsnnhKr.jpg",
+            "release_date": "2024-04-24",
+            "title": "The Fall Guy",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 1079485,
+            "original_language": "en",
+            "original_title": "Winnie-the-Pooh: Blood and Honey 2",
+            "overview": "Dans la forêt de 100 acres, une fureur destructrice envahit Winnie l'ourson, Porcinet, Tigrou et le Maître Hibou, qui ressentent une menace pour leur maison et leur vie suite à la découverte de leur existence par Christopher Robin.",
+            "popularity": 139.263,
+            "poster_path": "/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
+            "release_date": "2024-03-26",
+            "title": "Winnie-the-Pooh: Blood and Honey 2",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7grv5ULlK9wMr2T1fkgr56HlbT.jpg",
+            "genre_ids": [
+                36,
+                18,
+                10752
+            ],
+            "id": 760774,
+            "original_language": "en",
+            "original_title": "One Life",
+            "overview": "D'après l'histoire vraie du britannique Nicholas Winton (1909-2015). Avant le début de la Seconde Guerre mondiale, âgé de 29 ans, il sauve 669 enfants tchécoslovaques dont beaucoup sont juifs d'une mort certaine dans les camps d'extermination nazis.",
+            "popularity": 132.262,
+            "poster_path": "/aZn2ZjZFTgTg7hw2sEsiDZf4BcH.jpg",
+            "release_date": "2023-09-09",
+            "title": "Une vie",
+            "video": false,
+            "vote_average": 7.755,
+            "vote_count": 310
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/91qfG6VaxRsCh1SbIi1w2vxknsL.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 863,
+            "original_language": "en",
+            "original_title": "Toy Story 2",
+            "overview": "Andy part en colonie de vacances et laisse ses jouets à la maison. Les choses se gâtent quand le collectionneur Al McWhiggin kidnappe Woody. Dans l’appartement d’Al, Woody découvre qu’il est un objet de collection d’une émission des années 50, il rencontre d’autres jouets : Jessie, Pile-Poil, Papi Pépite. Buzz et les autres vont tenter de sauver Woody, avant qu’il ne devienne une pièce de musée.",
+            "popularity": 131.292,
+            "poster_path": "/lDOSztEvyOUdrDO5NVoq4CQ28AL.jpg",
+            "release_date": "1999-10-30",
+            "title": "Toy Story 2",
+            "video": false,
+            "vote_average": 7.593,
+            "vote_count": 13363
+        }
+    ],
+    "total_pages": 60,
+    "total_results": 1182
+}
